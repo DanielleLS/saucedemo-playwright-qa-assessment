@@ -1,5 +1,5 @@
 export const checkoutCustomer = {
   firstName: 'Julian',
-  lastName: 'Johnson',
+  lastName: 'Clark',
   postalCode: '1000-001',
 };
